@@ -163,11 +163,13 @@ equation
     __Dymola_Comands(file=
       "modelica://AixLib/Resources/Scripts/Dymola/Fluid/MassExchangers/MembraneBasedEnthalpyExchangers/Examples/Test_EnthalpyExchanger.mos"
         "Simulate and plot"),
-    Documentation(info="<html>
-This example shows the functionality of the membrane-based enthalpy exchanger. Two characteristic values for enthalpy exchangers, the latent and sensible efficiency, are calculated.
-</html>", revisions="<html>
+    Documentation(info="<html>This example shows the functionality of the membrane-based enthalpy
+exchanger. Two characteristic values for enthalpy exchangers, the
+latent and sensible efficiency, are calculated.
 <ul>
-<li>August 21, 2018, by Martin Kremer:<br/>First implementation. </li>
+  <li>August 21, 2018, by Martin Kremer:<br/>
+    First implementation.
+  </li>
 </ul>
 </html>"));
 end Test_EnthalpyExchanger;
